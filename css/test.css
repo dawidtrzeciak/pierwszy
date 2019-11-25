@@ -1,0 +1,23 @@
+body {
+   background-color: #35353099;
+}
+
+h1 {
+   font-size: 30px;
+   color: red;
+   margin: 0px;
+      }
+
+h2 {
+   font-size: 20px;
+   color: orange;
+}
+
+.big{
+   font-size: 60px;
+}
+.uppercase{
+   text-transform: uppercase;
+}
+
+.big.uppercase{ color: navy;}
