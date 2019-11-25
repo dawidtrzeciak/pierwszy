@@ -1,0 +1,10 @@
+body{
+   margin: 0;
+}
+
+header{
+   background-color: yellow;
+   color: navy;
+   font-size: 50px;
+   font-family: fantasy;
+}
