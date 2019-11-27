@@ -1,7 +1,9 @@
 body {
    background-color: #35353099;
 }
-
+main {
+   background-color: #393939;
+}
 h1 {
    font-size: 30px;
    color: red;
